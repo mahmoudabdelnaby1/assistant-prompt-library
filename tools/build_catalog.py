@@ -1,0 +1,34 @@
+from pathlib import Path
+import json, csv, re
+ROOT=Path(__file__).resolve().parents[1]
+DATA=ROOT/'data'/'assistants.json'
+CAT_AR={'Business & Productivity':'الأعمال والإنتاجية','Coding & Technology':'البرمجة والتقنية','Creative & Design':'الإبداع والتصميم','Education & Learning':'التعليم والتعلّم','General Assistants':'مساعدون متنوعون','Marketing & SEO':'التسويق وتحسين محركات البحث','Research & Analysis':'البحث والتحليل','Writing & Storytelling':'الكتابة والسرد'}
+MARKETING_FIRST=['Marketing & SEO','Business & Productivity','Research & Analysis','Writing & Storytelling','Creative & Design','Coding & Technology','Education & Learning','General Assistants']
+def clean(s): return re.sub(r'\\s+',' ',str(s or '')).strip().replace('|','\\|')
+def block(s): return str(s or '').strip().replace('```','` ` `')
+def main():
+ data=json.loads(DATA.read_text(encoding='utf-8')); items=data['assistants']
+ ids=[x['number'] for x in items]; names=[x['name'].casefold() for x in items]; slugs=[x['slug'] for x in items]
+ if len(ids)!=len(set(ids)) or len(names)!=len(set(names)) or len(slugs)!=len(set(slugs)): raise SystemExit('Assistant IDs, names, and slugs must be unique.')
+ required=['number','slug','name','category','intro_en','summary_ar','description_ar','welcome_en','starting_guidance_en','starting_guidance_ar','example_en','example_ar','model_tool_en','expected_output_en','prompt','portfolio_en','portfolio_ar']
+ for x in items:
+  missing=[k for k in required if not str(x.get(k,'')).strip()]
+  if missing: raise SystemExit(f'Incomplete #{x.get("number")}: {missing}')
+  folder=x['slug']; dest=ROOT/'assistants'/folder; dest.mkdir(parents=True,exist_ok=True)
+  readme=f'''# {x['name']}\n\n**Category:** {x['category']}  \n**Assistant page:** [English]({x['portfolio_en']}) · [العربية]({x['portfolio_ar']})\n\n## What it does\n\n{block(x['intro_en'])}\n\n## متى يفيدك؟\n\n{block(x['description_ar'])}\n\n## Start using it\n\n1. Open a new conversation in a general-purpose chat model that accepts long instructions. The specific model/tool guidance for this assistant is below.\n2. Copy the full text from [`prompt.md`](prompt.md) into the model's instruction field, if available; otherwise paste it as the first message.\n3. Send a separate task message. Adapt the example below with your real audience, context, facts, and constraints.\n4. Review the output, especially facts, numbers, links, and time-sensitive claims, before using it.\n\n**Suggested model/tool:** {block(x['model_tool_en'])}\n\n**What to expect:** {block(x['expected_output_en'])}\n\n## A useful first message\n\n{block(x['example_en'])}\n\n## طريقة البدء\n\n{block(x['starting_guidance_ar'])}\n\n**مثال لرسالتك الأولى:**\n\n{block(x['example_ar'])}\n\n## Prompt language and runtime\n\nThe full prompt is provided in its original language. This repository contains reusable instructions; it does not host or run an AI model. The result depends on the chat model and information you provide.\n\n## Full prompt\n\nSee [`prompt.md`](prompt.md).\n'''
+  (dest/'README.md').write_text(readme,encoding='utf-8'); (dest/'prompt.md').write_text(block(x['prompt'])+'\n',encoding='utf-8')
+  x['readme_path']=f'assistants/{folder}/README.md'; x['prompt_path']=f'assistants/{folder}/prompt.md'
+ (ROOT/'catalog.json').write_text(json.dumps({'schema_version':1,'count':len(items),'assistants':[{k:x[k] for k in ('number','slug','name','category','intro_en','summary_ar','readme_path','prompt_path','portfolio_en','portfolio_ar')} for x in items]},ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+ with (ROOT/'catalog.csv').open('w',encoding='utf-8-sig',newline='') as f:
+  fields=['number','name','category','intro_en','summary_ar','readme_path','prompt_path','portfolio_en','portfolio_ar']; w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows([{k:x.get(k,'') for k in fields} for x in items])
+ groups={}
+ for x in items: groups.setdefault(x['category'],[]).append(x)
+ sections=[]
+ for cat in MARKETING_FIRST+sorted(set(groups)-set(MARKETING_FIRST)):
+  if cat in groups:
+   rows='\n'.join(f"| [{x['name']}](./{x['readme_path']}) | {clean(x['intro_en'][:190])} |" for x in groups[cat])
+   sections.append(f"### {cat} · {CAT_AR.get(cat,'')}\n\n| Assistant | What it helps with |\n|---|---|\n{rows}")
+ readme=f'''# Assistant Prompt Library\n\nA growing, searchable collection of reusable AI assistant prompts across marketing, business, research, writing, creative work, education, and technology. Each entry explains the task it supports, how to start, what to expect, and what to review.\n\n**{len(items)} active entries, generated from the catalog** · [Browse the visual library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Portfolio](https://mahmoudabdelnaby1.github.io/) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)\n\n> These are prompt files, not hosted or executable bots. They run inside a separate chat model when you provide the prompt and task. The prompts are in their original language; supporting instructions and examples are bilingual.\n\n## How to use the library\n\n1. Choose a task below and open its assistant guide.\n2. Check the model/tool guidance and the example input.\n3. Open that assistant's `prompt.md` file and paste it into a new chat's instruction field, or send it as the first message.\n4. Send your real task separately and review the result before relying on it.\n\n## المكتبة بالعربية\n\nمكتبة متنامية من توجيهات المساعدين القابلة لإعادة الاستخدام في التسويق والأعمال والبحث والكتابة والإبداع والتعليم والتقنية. تشرح صفحة كل مساعد المهمة التي يناسبها، وطريقة البدء، والمدخلات المتوقعة، وما ينبغي مراجعته. هذه ملفات توجيه وليست روبوتات مستضافة أو تطبيقات تعمل وحدها؛ استخدمها داخل نموذج محادثة مناسب.\n\n[استكشف المكتبة المرئية](https://mahmoudabdelnaby1.github.io/ar/#assistant-library) · [الملف المهني](https://mahmoudabdelnaby1.github.io/ar/)\n\n## Browse by task\n\n{chr(10).join(sections)}\n\n## Adding or updating an assistant\n\nEdit the entry in [`data/assistants.json`](./data/assistants.json), keeping its ID, slug, category, use case, setup guidance, fictional examples, and original prompt aligned. Then run `python tools/build_catalog.py` to regenerate the per-assistant guides and both catalogs. Keep the published library count generated from the data; do not hard-code it in descriptions.\n'''
+ (ROOT/'README.md').write_text(readme,encoding='utf-8')
+ print(f'Generated {len(items)} assistant guides.')
+if __name__=='__main__': main()
