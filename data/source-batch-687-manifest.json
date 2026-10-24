@@ -1,0 +1,13 @@
+{
+  "batch": "ai_digital_marketing_687",
+  "reviewed_on": "2026-10-24",
+  "source_records": 687,
+  "accepted_net_new": 672,
+  "excluded_duplicates": 15,
+  "base_active_before_merge": 323,
+  "active_after_merge": 995,
+  "archived_after_merge": 692,
+  "source_identity_field": "source_number",
+  "publication_triage": "data/source-batch-687-triage.json",
+  "policy": "Counts describe catalog records; they are not a claim that every task has been externally fact-checked or that any assistant is an executable bot."
+}

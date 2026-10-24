@@ -1,0 +1,175 @@
+{
+  "source_count": 687,
+  "accepted_from_batch": 672,
+  "excluded_as_duplicates": 15,
+  "decisions": [
+    {
+      "source_number": 2,
+      "source_slug": "002-meta-advantage-budget-capping-auditor",
+      "name": "Meta Advantage+ Budget Capping Auditor",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 16,
+      "replacement": "16",
+      "reason": "The active Meta Advantage+ architecture entry already includes existing-customer budget caps.",
+      "replacement_readme": "assistants/016-meta-advantage-plus-architect/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/016-meta-advantage-plus-architect/README.md"
+    },
+    {
+      "source_number": 29,
+      "source_slug": "029-google-shopping-high-margin-sku-priority-bidding-agent",
+      "name": "Google Shopping High-Margin SKU Priority Bidding Agent",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 190,
+      "replacement": "190",
+      "reason": "Same margin-tiered Google Shopping bidding and SKU prioritization.",
+      "replacement_readme": "assistants/190-google-shopping-margin-tiered-bidding-specialist/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/190-google-shopping-margin-tiered-bidding-specialist/README.md"
+    },
+    {
+      "source_number": 32,
+      "source_slug": "032-tiktok-interactive-add-on-display-card-builder",
+      "name": "TikTok Interactive Add-On Display Card Builder",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 205,
+      "replacement": "205",
+      "reason": "Same TikTok Interactive Add-On configuration task.",
+      "replacement_readme": "assistants/205-tiktok-interactive-add-on-configurator/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/205-tiktok-interactive-add-on-configurator/README.md"
+    },
+    {
+      "source_number": 76,
+      "source_slug": "076-ai-post-purchase-upsell-maximizer",
+      "name": "AI Post-Purchase One-Click Upsell Maximizer",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 242,
+      "replacement": "242",
+      "reason": "The active Shopify post-purchase one-click upsell blueprint covers the same flow.",
+      "replacement_readme": "assistants/281-shopify-post-purchase-upsell-blueprint/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/281-shopify-post-purchase-upsell-blueprint/README.md"
+    },
+    {
+      "source_number": 154,
+      "source_slug": "154-ai-first-party-measurement-privacy-auditor",
+      "name": "AI First-Party Measurement & Browser Privacy Auditor",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 266,
+      "replacement": "266",
+      "reason": "Same first-party cookie lifetime/ITP subject; retain only as a privacy-safe audit and remove browser-bypass claims.",
+      "replacement_readme": "assistants/394-cookie-lifetime-extension-itp-specialist/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/394-cookie-lifetime-extension-itp-specialist/README.md"
+    },
+    {
+      "source_number": 210,
+      "source_slug": "210-ai-capi-emq-booster",
+      "name": "AI Conversions API Event Match Quality EMQ Booster",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 269,
+      "replacement": "269",
+      "reason": "Same Meta CAPI Event Match Quality audit and improvement task.",
+      "replacement_readme": "assistants/397-meta-capi-emq-optimizer-9/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/397-meta-capi-emq-optimizer-9/README.md"
+    },
+    {
+      "source_number": 220,
+      "source_slug": "220-ai-local-seo-gbp-3pack-ranker",
+      "name": "AI Local SEO Google Business Profile 3-Pack Ranker",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 285,
+      "replacement": "285",
+      "reason": "Same Google Business Profile local 3-pack visibility workflow.",
+      "replacement_readme": "assistants/476-gbp-local-3pack-rank-defender/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/476-gbp-local-3pack-rank-defender/README.md"
+    },
+    {
+      "source_number": 506,
+      "source_slug": "506-ai-hormozi-100m-grand-slam-offer-architect",
+      "name": "AI Alex Hormozi 100M Grand Slam Offer Architect",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 307,
+      "replacement": "307",
+      "reason": "Same Grand Slam Offer framework; retain the established blueprint.",
+      "replacement_readme": "assistants/811-grand-slam-offer-blueprint-architect/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/811-grand-slam-offer-blueprint-architect/README.md"
+    },
+    {
+      "source_number": 639,
+      "source_slug": "639-ai-ecommerce-faceted-navigation-canonicalizer",
+      "name": "AI E-Commerce Category Page Faceted Navigation Canonicalizer",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 230,
+      "replacement": "230-ai-faceted-navigation-canonical-fixer — AI E-Commerce Faceted Navigation Canonical & Indexation Fixer",
+      "reason": "Same faceted-navigation canonical and indexation remediation.",
+      "replacement_readme": "assistants/230-ai-faceted-navigation-canonical-fixer/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/230-ai-faceted-navigation-canonical-fixer/README.md"
+    },
+    {
+      "source_number": 640,
+      "source_slug": "640-ai-search-intent-bounce-reducer",
+      "name": "AI Search Intent Discrepancy & Bounce Reducer",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 275,
+      "replacement": "275-ai-search-query-discrepancy-bounce-reducer — AI Search Query Intent Discrepancy & Bounce Reducer",
+      "reason": "Same search-intent versus landing-page discrepancy diagnosis.",
+      "replacement_readme": "assistants/275-ai-search-query-discrepancy-bounce-reducer/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/275-ai-search-query-discrepancy-bounce-reducer/README.md"
+    },
+    {
+      "source_number": 646,
+      "source_slug": "646-ai-broken-link-equity-reclamation",
+      "name": "AI Broken Link Equity Reclamation & 301 Redirect Strategist",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 236,
+      "replacement": "236-ai-broken-backlink-reclamation-agent — AI Broken Backlink Reclamation & 404 Recovery Agent",
+      "reason": "Same broken-backlink recovery and redirect mapping workflow.",
+      "replacement_readme": "assistants/236-ai-broken-backlink-reclamation-agent/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/236-ai-broken-backlink-reclamation-agent/README.md"
+    },
+    {
+      "source_number": 647,
+      "source_slug": "647-ai-google-ads-quality-score-diagnostician",
+      "name": "AI Google Ads Quality Score & Ad Relevance Diagnostician",
+      "duplicate_scope": "active",
+      "replacement_source_number_or_active_id": 177,
+      "replacement": "177",
+      "reason": "Same Google Ads Quality Score component diagnosis.",
+      "replacement_readme": "assistants/177-google-quality-score-diagnostic-engine/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/177-google-quality-score-diagnostic-engine/README.md"
+    },
+    {
+      "source_number": 648,
+      "source_slug": "648-ai-pmax-negative-placement-scrubber",
+      "name": "AI Performance Max Negative Placement & Brand Traffic Scrubber",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 24,
+      "replacement": "024-google-pmax-negative-keyword-placement-scrubber — Google PMax Negative Keyword & Placement Scrubber",
+      "reason": "Same Performance Max negative-keyword and placement cleanup.",
+      "replacement_readme": "assistants/024-google-pmax-negative-keyword-placement-scrubber/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/024-google-pmax-negative-keyword-placement-scrubber/README.md"
+    },
+    {
+      "source_number": 655,
+      "source_slug": "655-ai-lsa-dispute-lead-manager",
+      "name": "AI Local Service Ads LSA Verification & Dispute Lead Manager",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 20,
+      "replacement": "020-google-local-services-ads-lsa-dispute-manager — Google Local Services Ads LSA Dispute Manager",
+      "reason": "Same Local Services Ads lead-validation and dispute workflow; retain the established dispute manager.",
+      "replacement_readme": "assistants/020-google-local-services-ads-lsa-dispute-manager/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/020-google-local-services-ads-lsa-dispute-manager/README.md"
+    },
+    {
+      "source_number": 674,
+      "source_slug": "674-ai-customer-winback-lapsed-buyers-flow",
+      "name": "AI Customer Winback & Re-Activation Flow for Lapsed Buyers",
+      "duplicate_scope": "batch",
+      "replacement_source_number_or_active_id": 437,
+      "replacement": "437-ai-customer-winback-inactive-buyers — AI Customer Winback Flow for 60-90-180 Day Inactive Buyers",
+      "reason": "Same lapsed-customer winback flow; retain the established 60/90/180-day workflow.",
+      "replacement_readme": "assistants/437-ai-customer-winback-inactive-buyers/README.md",
+      "replacement_url": "https://github.com/mahmoudabdelnaby1/assistant-prompt-library/blob/main/assistants/437-ai-customer-winback-inactive-buyers/README.md"
+    }
+  ],
+  "published_active_count_after_merge": 995,
+  "published_archive_count_after_merge": 692,
+  "base_active_count_before_merge": 323
+}

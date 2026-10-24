@@ -1,15 +1,15 @@
-# Cookie Lifetime Extension & ITP 2.3+ Specialist
+# First-Party Measurement Privacy & Consent Auditor
 
 **Category:** Coding & Technology
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/394-cookie-lifetime-extension-itp-specialist/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/394-cookie-lifetime-extension-itp-specialist/)
 
 ## What it does
 
-Implements true server-set HTTP-only Set-Cookie response headers to override Apple WebKit 24-hour and 7-day client-side JavaScript cookie capping, keeping return attribution intact.
+Reviews first-party measurement design for consent, browser privacy limits, data minimization, event integrity, and reconciliation.
 
 ## متى يفيدك؟
 
-آبل تحذف كوكيز المتصفح بعد 7 أيام مما يجعل العميل الذي يشتري بعد أسبوعين يظهر كعميل جديد مجهول المصدر؛ هذا المساعد يثبت الكوكيز من السيرفر مباشرة لربط المبيعات بالحملة الأصلية بدقة.
+يساعد على مراجعة تدفق أحداث القياس، وحالات الموافقة، وإزالة التكرار، ومقارنة الأحداث بسجلات الطلبات. لا يقترح تجاوز حماية المتصفح أو إطالة ملفات الارتباط.
 
 ## Start using it
 
@@ -18,21 +18,21 @@ Implements true server-set HTTP-only Set-Cookie response headers to override App
 3. Send a separate task message. Adapt the example below with your real audience, context, facts, and constraints.
 4. Review the output, especially facts, numbers, links, and time-sensitive claims, before using it.
 
-**Suggested model/tool:** Use any general-purpose chat model that accepts long instructions. Model features and platform settings can change; check current official guidance when the task depends on them.
+**Suggested model/tool:** Use a current general-purpose chat model that supports long instructions. Confirm current browser and platform behavior against primary documentation.
 
-**What to expect:** A draft or structured response based on the prompt and information you provide. Review facts, calculations, links, policies, and time-sensitive details before relying on it.
+**What to expect:** A measurement data-flow map, privacy-safe implementation review, test matrix, reconciliation steps, and a list of evidence gaps.
 
 ## A useful first message
 
-Our average customer consideration cycle is 21 days, but Safari ITP caps our Google and Meta tracking cookies at 7 days. We need a server-side Set-Cookie architecture to preserve attribution.
+Our purchase event reaches the browser pixel and server API. Help map the fields, consent conditions, deduplication and test cases, then show what evidence would confirm receipt and reconciliation.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Apple WebKit ITP 2.3+ & First-Party Cookie Longevity الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+صف الموقع وحالات الموافقة وأحداث المتصفح والخادم وطريقة إزالة التكرار وفترة الاحتفاظ والمشكلة. لا ترسل بيانات دخول أو معلومات شخصية للعملاء.
 
 **مثال لرسالتك الأولى:**
 
-دورة الشراء لدى عملائنا تستغرق 3 أسابيع، لكن قيود آبل تحذف بيانات التتبع بعد أسبوع واحد. نحتاج كوكيز سيرفرية HTTP-only لضمان نسبة المبيعات لحملاتها الإعلانية بدقة.
+يصل حدث الشراء إلى بكسل المتصفح وواجهة الخادم. ساعدني في توثيق الحقول وشروط الموافقة وإزالة التكرار وحالات الاختبار، وحدد الأدلة اللازمة لتأكيد الاستلام والمطابقة.
 
 ## Prompt language and runtime
 
