@@ -1,6 +1,6 @@
 # Sales Genius
 
-**Category:** Writing & Storytelling  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/034-sales-genius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/034-sales-genius/)
 
 ## What it does

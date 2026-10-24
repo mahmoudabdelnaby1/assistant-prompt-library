@@ -1,6 +1,6 @@
 # Midjourney Pixel Verse
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/069-midjourney-pixel-verse/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/069-midjourney-pixel-verse/)
 
 ## What it does

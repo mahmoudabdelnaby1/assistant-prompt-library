@@ -1,6 +1,6 @@
 # Seasoned Product Manager
 
-**Category:** Business & Productivity  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/092-seasoned-product-manager/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/092-seasoned-product-manager/)
 
 ## What it does

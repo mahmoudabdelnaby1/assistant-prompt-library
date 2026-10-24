@@ -1,6 +1,6 @@
 # ArticleGenius
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/079-articlegenius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/079-articlegenius/)
 
 ## What it does

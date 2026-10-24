@@ -1,6 +1,6 @@
 # Midjourney Architecta Prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/063-midjourney-architecta-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/063-midjourney-architecta-prompts/)
 
 ## What it does

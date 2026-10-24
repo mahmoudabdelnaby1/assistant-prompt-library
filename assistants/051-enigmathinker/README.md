@@ -1,6 +1,6 @@
 # EnigmaThinker
 
-**Category:** Marketing & SEO  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/051-enigmathinker/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/051-enigmathinker/)
 
 ## What it does

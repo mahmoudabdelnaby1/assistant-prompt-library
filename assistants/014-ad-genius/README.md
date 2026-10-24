@@ -1,6 +1,6 @@
 # Ad Genius
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/014-ad-genius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/014-ad-genius/)
 
 ## What it does

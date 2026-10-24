@@ -1,6 +1,6 @@
 # WebInspire
 
-**Category:** Coding & Technology  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/089-webinspire/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/089-webinspire/)
 
 ## What it does

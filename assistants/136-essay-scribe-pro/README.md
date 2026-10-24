@@ -1,6 +1,6 @@
 # Essay Scribe Pro
 
-**Category:** Research & Analysis  
+**Category:** Research & Analysis
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/136-essay-scribe-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/136-essay-scribe-pro/)
 
 ## What it does

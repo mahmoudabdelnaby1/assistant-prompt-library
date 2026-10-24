@@ -1,6 +1,6 @@
 # Pay Raise Pro
 
-**Category:** Research & Analysis  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/103-pay-raise-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/103-pay-raise-pro/)
 
 ## What it does

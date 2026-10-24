@@ -1,6 +1,6 @@
 # ArtNebula Express
 
-**Category:** Marketing & SEO  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/025-artnebula-express/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/025-artnebula-express/)
 
 ## What it does

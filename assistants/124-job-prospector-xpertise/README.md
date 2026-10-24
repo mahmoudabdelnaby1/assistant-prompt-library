@@ -1,6 +1,6 @@
 # Job Prospector Xpertise
 
-**Category:** Writing & Storytelling  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/124-job-prospector-xpertise/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/124-job-prospector-xpertise/)
 
 ## What it does

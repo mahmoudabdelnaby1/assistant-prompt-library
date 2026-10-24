@@ -1,6 +1,6 @@
 # Content Sensei
 
-**Category:** Education & Learning  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/111-content-sensei/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/111-content-sensei/)
 
 ## What it does

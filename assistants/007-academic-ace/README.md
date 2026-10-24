@@ -1,6 +1,6 @@
 # Academic Ace
 
-**Category:** Research & Analysis  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/007-academic-ace/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/007-academic-ace/)
 
 ## What it does

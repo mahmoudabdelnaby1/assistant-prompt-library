@@ -1,6 +1,6 @@
 # EduSense Navigator
 
-**Category:** Education & Learning  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/129-edusense-navigator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/129-edusense-navigator/)
 
 ## What it does

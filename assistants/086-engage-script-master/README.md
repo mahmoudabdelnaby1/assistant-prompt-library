@@ -1,6 +1,6 @@
 # Engage Script Master
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/086-engage-script-master/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/086-engage-script-master/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # photorealistic Xpert
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/012-photorealistic-xpert/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/012-photorealistic-xpert/)
 
 ## What it does

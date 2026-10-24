@@ -1,6 +1,6 @@
 # Ad Wizard
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/074-ad-wizard/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/074-ad-wizard/)
 
 ## What it does

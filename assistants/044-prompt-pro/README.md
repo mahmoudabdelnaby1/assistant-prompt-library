@@ -1,6 +1,6 @@
 # Prompt Pro
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/044-prompt-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/044-prompt-pro/)
 
 ## What it does

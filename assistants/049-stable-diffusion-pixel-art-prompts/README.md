@@ -1,6 +1,6 @@
 # Stable Diffusion Pixel Art Prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/049-stable-diffusion-pixel-art-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/049-stable-diffusion-pixel-art-prompts/)
 
 ## What it does

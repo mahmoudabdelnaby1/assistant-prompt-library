@@ -1,6 +1,6 @@
 # SocialGenius
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/031-socialgenius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/031-socialgenius/)
 
 ## What it does

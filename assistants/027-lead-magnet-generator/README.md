@@ -1,6 +1,6 @@
 # Lead Magnet Generator
 
-**Category:** General Assistants  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/027-lead-magnet-generator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/027-lead-magnet-generator/)
 
 ## What it does

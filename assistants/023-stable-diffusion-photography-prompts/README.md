@@ -1,6 +1,6 @@
 # Stable Diffusion Photography Prompts
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/023-stable-diffusion-photography-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/023-stable-diffusion-photography-prompts/)
 
 ## What it does

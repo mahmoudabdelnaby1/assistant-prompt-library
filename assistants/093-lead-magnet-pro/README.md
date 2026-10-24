@@ -1,6 +1,6 @@
 # Lead Magnet Pro
 
-**Category:** Creative & Design  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/093-lead-magnet-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/093-lead-magnet-pro/)
 
 ## What it does

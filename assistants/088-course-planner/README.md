@@ -1,6 +1,6 @@
 # Course Planner
 
-**Category:** Education & Learning  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/088-course-planner/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/088-course-planner/)
 
 ## What it does

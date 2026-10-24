@@ -1,6 +1,6 @@
 # ReelsGenius
 
-**Category:** Education & Learning  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/071-reelsgenius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/071-reelsgenius/)
 
 ## What it does

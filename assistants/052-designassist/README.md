@@ -1,6 +1,6 @@
 # DesignAssist
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/052-designassist/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/052-designassist/)
 
 ## What it does

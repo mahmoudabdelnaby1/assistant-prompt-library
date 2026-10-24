@@ -1,6 +1,6 @@
 # Choice Advisor
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/061-choice-advisor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/061-choice-advisor/)
 
 ## What it does

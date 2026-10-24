@@ -1,6 +1,6 @@
 # IdeaSpark
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/017-ideaspark/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/017-ideaspark/)
 
 ## What it does

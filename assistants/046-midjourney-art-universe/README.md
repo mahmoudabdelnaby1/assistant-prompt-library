@@ -1,6 +1,6 @@
 # Midjourney Art Universe
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/046-midjourney-art-universe/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/046-midjourney-art-universe/)
 
 ## What it does

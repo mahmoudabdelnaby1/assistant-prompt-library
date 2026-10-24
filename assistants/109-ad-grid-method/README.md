@@ -1,6 +1,6 @@
 # Ad Grid Method
 
-**Category:** General Assistants  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/109-ad-grid-method/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/109-ad-grid-method/)
 
 ## What it does

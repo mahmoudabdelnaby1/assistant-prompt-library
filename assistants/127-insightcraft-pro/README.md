@@ -1,6 +1,6 @@
 # InsightCraft Pro
 
-**Category:** Business & Productivity  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/127-insightcraft-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/127-insightcraft-pro/)
 
 ## What it does

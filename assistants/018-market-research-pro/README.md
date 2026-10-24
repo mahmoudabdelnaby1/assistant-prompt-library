@@ -1,6 +1,6 @@
 # Market Research Pro
 
-**Category:** Research & Analysis  
+**Category:** Research & Analysis
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/018-market-research-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/018-market-research-pro/)
 
 ## What it does

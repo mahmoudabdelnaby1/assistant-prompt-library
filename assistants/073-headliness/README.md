@@ -1,6 +1,6 @@
 # Headliness
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/073-headliness/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/073-headliness/)
 
 ## What it does

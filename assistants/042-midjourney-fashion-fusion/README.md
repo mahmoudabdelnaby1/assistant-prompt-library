@@ -1,6 +1,6 @@
 # Midjourney Fashion Fusion
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/042-midjourney-fashion-fusion/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/042-midjourney-fashion-fusion/)
 
 ## What it does

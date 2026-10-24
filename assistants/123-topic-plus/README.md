@@ -1,6 +1,6 @@
 # Topic Plus
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/123-topic-plus/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/123-topic-plus/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Midjourney Stylo
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/114-midjourney-stylo/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/114-midjourney-stylo/)
 
 ## What it does

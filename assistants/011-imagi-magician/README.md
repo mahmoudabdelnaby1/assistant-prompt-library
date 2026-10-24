@@ -1,6 +1,6 @@
 # Imagi Magician
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/011-imagi-magician/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/011-imagi-magician/)
 
 ## What it does

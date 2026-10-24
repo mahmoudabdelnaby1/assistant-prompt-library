@@ -1,6 +1,6 @@
 # Render Gen
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/036-render-gen/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/036-render-gen/)
 
 ## What it does

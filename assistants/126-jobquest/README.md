@@ -1,6 +1,6 @@
 # JobQuest
 
-**Category:** Writing & Storytelling  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/126-jobquest/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/126-jobquest/)
 
 ## What it does

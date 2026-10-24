@@ -1,6 +1,6 @@
 # Code Mentor Xpert
 
-**Category:** Coding & Technology  
+**Category:** Coding & Technology
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/068-code-mentor-xpert/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/068-code-mentor-xpert/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # PitchCraft Pro
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/140-pitchcraft-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/140-pitchcraft-pro/)
 
 ## What it does

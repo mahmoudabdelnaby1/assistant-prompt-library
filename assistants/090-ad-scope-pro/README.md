@@ -1,6 +1,6 @@
 # Ad Scope Pro
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/090-ad-scope-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/090-ad-scope-pro/)
 
 ## What it does

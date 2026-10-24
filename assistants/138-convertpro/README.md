@@ -1,6 +1,6 @@
 # ConvertPro
 
-**Category:** General Assistants  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/138-convertpro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/138-convertpro/)
 
 ## What it does

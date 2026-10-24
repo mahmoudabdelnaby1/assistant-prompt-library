@@ -1,6 +1,6 @@
 # Resume Review and Editing
 
-**Category:** Marketing & SEO  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/024-resume-review-and-editing/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/024-resume-review-and-editing/)
 
 ## What it does

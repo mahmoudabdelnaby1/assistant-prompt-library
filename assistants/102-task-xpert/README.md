@@ -1,6 +1,6 @@
 # Task Xpert
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/102-task-xpert/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/102-task-xpert/)
 
 ## What it does

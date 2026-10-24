@@ -1,6 +1,6 @@
 # Stable Audio Prompt Generator
 
-**Category:** Writing & Storytelling  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/004-stable-audio-prompt-generator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/004-stable-audio-prompt-generator/)
 
 ## What it does

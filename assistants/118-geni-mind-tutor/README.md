@@ -1,6 +1,6 @@
 # Geni Mind Tutor
 
-**Category:** Education & Learning  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/118-geni-mind-tutor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/118-geni-mind-tutor/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Runway Prompter
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/005-runway-prompter/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/005-runway-prompter/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Prompt Genius
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/021-prompt-genius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/021-prompt-genius/)
 
 ## What it does

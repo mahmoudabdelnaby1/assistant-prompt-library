@@ -1,6 +1,6 @@
 # IsoCraft Generator
 
-**Category:** Marketing & SEO  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/122-isocraft-generator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/122-isocraft-generator/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Prompt Visionary
 
-**Category:** Research & Analysis  
+**Category:** Research & Analysis
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/067-prompt-visionary/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/067-prompt-visionary/)
 
 ## What it does

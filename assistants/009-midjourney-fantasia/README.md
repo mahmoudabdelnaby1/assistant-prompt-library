@@ -1,6 +1,6 @@
 # Midjourney Fantasia
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/009-midjourney-fantasia/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/009-midjourney-fantasia/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # VisionCraft Nexus
 
-**Category:** Marketing & SEO  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/066-visioncraft-nexus/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/066-visioncraft-nexus/)
 
 ## What it does

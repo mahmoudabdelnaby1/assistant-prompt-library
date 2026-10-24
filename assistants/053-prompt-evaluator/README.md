@@ -1,6 +1,6 @@
 # Prompt Evaluator
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/053-prompt-evaluator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/053-prompt-evaluator/)
 
 ## What it does

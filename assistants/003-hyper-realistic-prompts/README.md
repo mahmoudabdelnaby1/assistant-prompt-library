@@ -1,6 +1,6 @@
 # Hyper Realistic Prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/003-hyper-realistic-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/003-hyper-realistic-prompts/)
 
 ## What it does

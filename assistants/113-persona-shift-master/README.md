@@ -1,6 +1,6 @@
 # Persona Shift Master
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/113-persona-shift-master/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/113-persona-shift-master/)
 
 ## What it does

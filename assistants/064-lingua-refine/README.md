@@ -1,6 +1,6 @@
 # Lingua Refine
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/064-lingua-refine/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/064-lingua-refine/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # StratMark Prodigy
 
-**Category:** Business & Productivity  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/143-stratmark-prodigy/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/143-stratmark-prodigy/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Skill Sprint Sage
 
-**Category:** Education & Learning  
+**Category:** Education & Learning
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/117-skill-sprint-sage/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/117-skill-sprint-sage/)
 
 ## What it does

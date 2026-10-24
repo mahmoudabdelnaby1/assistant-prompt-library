@@ -1,6 +1,6 @@
 # Market Maven
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/022-market-maven/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/022-market-maven/)
 
 ## What it does

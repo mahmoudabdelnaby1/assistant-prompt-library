@@ -1,6 +1,6 @@
 # Content Catalyst
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/098-content-catalyst/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/098-content-catalyst/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # DiscoverSEO
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/133-discoverseo/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/133-discoverseo/)
 
 ## What it does

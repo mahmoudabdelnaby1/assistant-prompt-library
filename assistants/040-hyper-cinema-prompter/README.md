@@ -1,6 +1,6 @@
 # Hyper Cinema Prompter
 
-**Category:** Writing & Storytelling  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/040-hyper-cinema-prompter/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/040-hyper-cinema-prompter/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Avatar Craft
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/097-avatar-craft/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/097-avatar-craft/)
 
 ## What it does

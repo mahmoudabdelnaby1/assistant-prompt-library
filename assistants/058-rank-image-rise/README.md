@@ -1,6 +1,6 @@
 # Rank Image Rise
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/058-rank-image-rise/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/058-rank-image-rise/)
 
 ## What it does

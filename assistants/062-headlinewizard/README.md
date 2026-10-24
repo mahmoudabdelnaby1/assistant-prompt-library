@@ -1,6 +1,6 @@
 # HeadlineWizard
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/062-headlinewizard/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/062-headlinewizard/)
 
 ## What it does

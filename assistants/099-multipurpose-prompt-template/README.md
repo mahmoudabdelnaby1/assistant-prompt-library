@@ -1,6 +1,6 @@
 # Multipurpose Prompt Template
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/099-multipurpose-prompt-template/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/099-multipurpose-prompt-template/)
 
 ## What it does

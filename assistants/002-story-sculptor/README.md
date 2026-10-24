@@ -1,6 +1,6 @@
 # Story Sculptor
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/002-story-sculptor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/002-story-sculptor/)
 
 ## What it does

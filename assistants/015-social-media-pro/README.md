@@ -1,6 +1,6 @@
 # Social Media Pro
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/015-social-media-pro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/015-social-media-pro/)
 
 ## What it does

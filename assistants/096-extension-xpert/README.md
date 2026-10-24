@@ -1,6 +1,6 @@
 # Extension Xpert
 
-**Category:** Coding & Technology  
+**Category:** Coding & Technology
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/096-extension-xpert/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/096-extension-xpert/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Hooks Strategy Builder
 
-**Category:** Creative & Design  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/080-hooks-strategy-builder/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/080-hooks-strategy-builder/)
 
 ## What it does

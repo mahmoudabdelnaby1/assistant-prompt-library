@@ -1,6 +1,6 @@
 # Customer Avatar Builder
 
-**Category:** Writing & Storytelling  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/033-customer-avatar-builder/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/033-customer-avatar-builder/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # ProposalCraft Prodigy
 
-**Category:** Business & Productivity  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/141-proposalcraft-prodigy/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/141-proposalcraft-prodigy/)
 
 ## What it does

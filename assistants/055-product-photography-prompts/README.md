@@ -1,6 +1,6 @@
 # Product Photography Prompts
 
-**Category:** Writing & Storytelling  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/055-product-photography-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/055-product-photography-prompts/)
 
 ## What it does

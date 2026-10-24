@@ -1,6 +1,6 @@
 # Midjourney Food Verse
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/110-midjourney-food-verse/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/110-midjourney-food-verse/)
 
 ## What it does

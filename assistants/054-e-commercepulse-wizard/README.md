@@ -1,6 +1,6 @@
 # E-commercePulse Wizard
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/054-e-commercepulse-wizard/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/054-e-commercepulse-wizard/)
 
 ## What it does

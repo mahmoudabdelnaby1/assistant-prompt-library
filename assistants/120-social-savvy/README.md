@@ -1,6 +1,6 @@
 # Social Savvy
 
-**Category:** General Assistants  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/120-social-savvy/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/120-social-savvy/)
 
 ## What it does

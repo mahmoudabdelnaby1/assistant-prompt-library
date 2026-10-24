@@ -1,6 +1,6 @@
 # Essay Genius
 
-**Category:** Research & Analysis  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/020-essay-genius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/020-essay-genius/)
 
 ## What it does

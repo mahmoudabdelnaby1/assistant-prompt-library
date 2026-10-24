@@ -1,6 +1,6 @@
 # AI Prompt Innovator
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/028-ai-prompt-innovator/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/028-ai-prompt-innovator/)
 
 ## What it does

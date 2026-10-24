@@ -1,6 +1,6 @@
 # CV SuperMe
 
-**Category:** Marketing & SEO  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/032-cv-superme/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/032-cv-superme/)
 
 ## What it does

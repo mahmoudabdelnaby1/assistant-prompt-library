@@ -1,6 +1,6 @@
 # SolvoLingua
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/047-solvolingua/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/047-solvolingua/)
 
 ## What it does

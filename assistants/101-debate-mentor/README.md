@@ -1,6 +1,6 @@
 # Debate Mentor
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/101-debate-mentor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/101-debate-mentor/)
 
 ## What it does

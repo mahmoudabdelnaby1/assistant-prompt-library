@@ -1,6 +1,6 @@
 # Midjourney Weird Prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/075-midjourney-weird-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/075-midjourney-weird-prompts/)
 
 ## What it does

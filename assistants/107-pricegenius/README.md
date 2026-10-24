@@ -1,6 +1,6 @@
 # PriceGenius
 
-**Category:** Research & Analysis  
+**Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/107-pricegenius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/107-pricegenius/)
 
 ## What it does

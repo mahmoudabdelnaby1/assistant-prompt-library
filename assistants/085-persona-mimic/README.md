@@ -1,6 +1,6 @@
 # Persona Mimic
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/085-persona-mimic/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/085-persona-mimic/)
 
 ## What it does

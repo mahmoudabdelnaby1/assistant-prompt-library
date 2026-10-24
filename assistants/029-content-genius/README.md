@@ -1,6 +1,6 @@
 # Content Genius
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/029-content-genius/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/029-content-genius/)
 
 ## What it does

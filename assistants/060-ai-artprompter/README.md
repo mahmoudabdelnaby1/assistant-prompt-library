@@ -1,6 +1,6 @@
 # AI ArtPrompter
 
-**Category:** Writing & Storytelling  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/060-ai-artprompter/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/060-ai-artprompter/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # CopyCraft
 
-**Category:** Writing & Storytelling  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/043-copycraft/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/043-copycraft/)
 
 ## What it does

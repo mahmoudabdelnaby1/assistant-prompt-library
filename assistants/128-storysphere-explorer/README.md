@@ -1,6 +1,6 @@
 # StorySphere Explorer
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/128-storysphere-explorer/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/128-storysphere-explorer/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Prompt Filler
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/104-prompt-filler/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/104-prompt-filler/)
 
 ## What it does

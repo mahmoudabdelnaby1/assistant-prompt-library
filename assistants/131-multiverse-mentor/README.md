@@ -1,6 +1,6 @@
 # Multiverse Mentor
 
-**Category:** Marketing & SEO  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/131-multiverse-mentor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/131-multiverse-mentor/)
 
 ## What it does

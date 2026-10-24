@@ -1,6 +1,6 @@
 # Prompt Marvel
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/010-prompt-marvel/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/010-prompt-marvel/)
 
 ## What it does

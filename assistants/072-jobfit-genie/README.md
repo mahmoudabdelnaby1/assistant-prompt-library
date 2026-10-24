@@ -1,6 +1,6 @@
 # JobFit Genie
 
-**Category:** Coding & Technology  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/072-jobfit-genie/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/072-jobfit-genie/)
 
 ## What it does

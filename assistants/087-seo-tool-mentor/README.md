@@ -1,6 +1,6 @@
 # SEO Tool Mentor
 
-**Category:** Research & Analysis  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/087-seo-tool-mentor/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/087-seo-tool-mentor/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # VideoOptimizer
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/081-videooptimizer/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/081-videooptimizer/)
 
 ## What it does

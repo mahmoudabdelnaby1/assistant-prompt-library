@@ -1,6 +1,6 @@
 # Midjourney 3D Prompt Weaver
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/077-midjourney-3d-prompt-weaver/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/077-midjourney-3d-prompt-weaver/)
 
 ## What it does

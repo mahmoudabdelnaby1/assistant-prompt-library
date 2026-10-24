@@ -1,6 +1,6 @@
 # SnapCraft Canvas
 
-**Category:** Marketing & SEO  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/139-snapcraft-canvas/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/139-snapcraft-canvas/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Snippet Scribe
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/108-snippet-scribe/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/108-snippet-scribe/)
 
 ## What it does

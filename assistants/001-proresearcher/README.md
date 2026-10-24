@@ -1,6 +1,6 @@
 # ProResearcher
 
-**Category:** Research & Analysis  
+**Category:** Research & Analysis
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/001-proresearcher/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/001-proresearcher/)
 
 ## What it does

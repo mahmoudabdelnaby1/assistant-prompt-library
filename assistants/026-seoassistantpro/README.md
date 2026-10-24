@@ -1,6 +1,6 @@
 # SEOAssistantPro
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/026-seoassistantpro/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/026-seoassistantpro/)
 
 ## What it does

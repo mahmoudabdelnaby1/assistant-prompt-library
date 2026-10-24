@@ -1,6 +1,6 @@
 # CreativeAsset
 
-**Category:** Research & Analysis  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/095-creativeasset/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/095-creativeasset/)
 
 ## What it does

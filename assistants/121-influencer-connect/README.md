@@ -1,6 +1,6 @@
 # Influencer Connect
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/121-influencer-connect/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/121-influencer-connect/)
 
 ## What it does

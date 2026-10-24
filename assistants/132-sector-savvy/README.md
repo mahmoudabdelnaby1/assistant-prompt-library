@@ -1,6 +1,6 @@
 # Sector Savvy
 
-**Category:** Education & Learning  
+**Category:** Research & Analysis
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/132-sector-savvy/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/132-sector-savvy/)
 
 ## What it does

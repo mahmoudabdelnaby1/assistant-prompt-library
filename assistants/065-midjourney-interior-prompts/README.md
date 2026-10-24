@@ -1,6 +1,6 @@
 # Midjourney Interior prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/065-midjourney-interior-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/065-midjourney-interior-prompts/)
 
 ## What it does

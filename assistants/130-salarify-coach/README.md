@@ -1,6 +1,6 @@
 # Salarify Coach
 
-**Category:** Research & Analysis  
+**Category:** Career & Professional Development
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/130-salarify-coach/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/130-salarify-coach/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Midjourney Cartoonify Prompts
 
-**Category:** Writing & Storytelling  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/076-midjourney-cartoonify-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/076-midjourney-cartoonify-prompts/)
 
 ## What it does

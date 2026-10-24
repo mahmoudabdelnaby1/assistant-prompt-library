@@ -1,6 +1,6 @@
 # MultiLingo Scripter
 
-**Category:** Writing & Storytelling  
+**Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/134-multilingo-scripter/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/134-multilingo-scripter/)
 
 ## What it does

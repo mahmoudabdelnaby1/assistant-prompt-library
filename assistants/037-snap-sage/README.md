@@ -1,6 +1,6 @@
 # Snap Sage
 
-**Category:** Marketing & SEO  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/037-snap-sage/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/037-snap-sage/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # AskAra
 
-**Category:** General Assistants  
+**Category:** General Assistants
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/115-askara/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/115-askara/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # ProPost
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/142-propost/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/142-propost/)
 
 ## What it does

@@ -1,6 +1,6 @@
 # Midjourney Album Covers Prompts
 
-**Category:** Creative & Design  
+**Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/057-midjourney-album-covers-prompts/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/057-midjourney-album-covers-prompts/)
 
 ## What it does

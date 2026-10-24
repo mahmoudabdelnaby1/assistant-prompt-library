@@ -1,6 +1,6 @@
 # Magic Writer
 
-**Category:** Marketing & SEO  
+**Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/006-magic-writer/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/006-magic-writer/)
 
 ## What it does
