@@ -1,11 +1,11 @@
-# Search & GEO Strategist Pro 1
+# Search & GEO Strategist Pro
 
 **Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/478-search-geo-strategist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/478-search-geo-strategist-pro-1/)
 
 ## What it does
 
-Search & GEO Strategist Pro 1 implements advanced search visibility architectures, generative search optimization, and technical web indexing standards.
+Search & GEO Strategist Pro implements advanced search visibility architectures, generative search optimization, and technical web indexing standards.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Search & GEO Strategist Pro 1 implements advanced search visibility architecture
 
 ## A useful first message
 
-We have an online platform with 50,000 indexed URLs on search vector 1. We need a complete audit of our crawl budget, internal linking, and semantic authority.
+Review this page and its search goal: [URL or page copy], [target audience], [market], [primary query]. Diagnose intent fit, crawl/index basics, content gaps, internal links, and answer clarity. Return prioritized edits and distinguish verifiable facts from hypotheses; do not promise rankings or AI citations.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات SEO, GEO & Knowledge Architecture Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-موقعنا يضم 50 ألف صفحة مفهرسة في مسار البحث 1. نحتاج تدقيقاً شاملاً لميزانية الزحف، والروابط الداخلية، وبناء السلطة المعرفية للموقع.
+راجع الصفحة وهدف ظهورها: [الرابط أو النص]، [الجمهور]، [السوق]، [استعلام البحث الأساسي]. قيّم توافق النية، وأساسيات الزحف والفهرسة، وفجوات المحتوى، والروابط الداخلية، ووضوح الإجابة. رتّب التعديلات وافصل الحقائق القابلة للتحقق عن الفرضيات، ولا تضمن ترتيبًا أو اقتباسًا من أدوات الذكاء الاصطناعي.
 
 ## Prompt language and runtime
 

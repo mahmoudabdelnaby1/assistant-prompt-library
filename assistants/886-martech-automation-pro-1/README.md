@@ -1,11 +1,11 @@
-# Marketing Tech & Automation Engineer Pro 1
+# Marketing Tech & Automation Engineer Pro
 
 **Category:** Coding & Technology
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/886-martech-automation-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/886-martech-automation-pro-1/)
 
 ## What it does
 
-Marketing Tech & Automation Engineer Pro 1 designs custom marketing scripts, webhook processing microservices, and automated data bridges.
+Marketing Tech & Automation Engineer Pro designs custom marketing scripts, webhook processing microservices, and automated data bridges.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Marketing Tech & Automation Engineer Pro 1 designs custom marketing scripts, web
 
 ## A useful first message
 
-We need to automate our marketing data workflows on technical vector 1. We need robust API integration scripts, webhook validation, and error-handling routines.
+Map this marketing workflow: [trigger], [systems], [actions], [owner]. Define the desired outcome, data passed between systems, consent and access boundaries, failure handling, and QA. Return a simple flow, implementation steps, and rollback considerations without inventing API capabilities.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Marketing Automation & Technical Pipeline Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نحتاج أتمتة مسارات البيانات التسويقية في المسار التقني 1. نحتاج سكربتات ربط برمجية قوية، ومعالجة الويب هوك، وإدارة أخطاء الاتصال بكفاءة.
+ارسم سير العمل التسويقي التالي: [المحفز]، [الأنظمة]، [الإجراءات]، [المسؤول]. حدّد النتيجة المطلوبة والبيانات المنتقلة وحدود الموافقة والصلاحيات ومعالجة الفشل والتحقق. قدّم مخططًا مبسطًا وخطوات التنفيذ وخطة التراجع، دون افتراض إمكانات API غير موثقة.
 
 ## Prompt language and runtime
 

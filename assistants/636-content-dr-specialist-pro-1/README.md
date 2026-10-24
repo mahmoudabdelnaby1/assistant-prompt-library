@@ -1,11 +1,11 @@
-# Content & Direct-Response Specialist Pro 1
+# Content & Direct-Response Specialist Pro
 
 **Category:** Writing & Storytelling
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/636-content-dr-specialist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/636-content-dr-specialist-pro-1/)
 
 ## What it does
 
-Content & Direct-Response Specialist Pro 1 crafts high-converting copy, commercial scripts, and audience retention frameworks.
+Content & Direct-Response Specialist Pro crafts high-converting copy, commercial scripts, and audience retention frameworks.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Content & Direct-Response Specialist Pro 1 crafts high-converting copy, commerci
 
 ## A useful first message
 
-We need a multi-platform content and copywriting campaign on storytelling vector 1. We need high-converting hooks, script outlines, and call-to-action variants.
+Create a direct-response content package for [offer] and [audience] on [channel]. Use only these verified product facts: [facts]. Desired action: [action]. Return distinct message angles, hooks, one complete draft, CTA options, and a claim check. Do not invent proof or guarantees.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Content Strategy & Video Framework Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نحتاج حملة محتوى وكتابة إعلانية متكاملة في المسار الإبداعي 1. نحتاج هوكات افتتاحية، وسيناريوهات تصوير، وخيارات نداء للشراء (CTA) متعددة.
+أنشئ حزمة محتوى استجابة مباشرة لعرض [العرض] وجمهور [الجمهور] على [القناة]. استخدم حقائق المنتج الموثقة فقط: [الحقائق]. الإجراء المطلوب [الإجراء]. قدّم زوايا ورسائل مختلفة، وبدايات جذابة، ومسودة كاملة، وخيارات CTA، ومراجعة للادعاءات. لا تخترع إثباتًا أو ضمانات.
 
 ## Prompt language and runtime
 

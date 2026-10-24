@@ -1,11 +1,11 @@
-# Strategy & Market Intelligence Specialist Pro 1
+# Strategy & Market Intelligence Specialist Pro
 
 **Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/816-strategy-market-intel-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/816-strategy-market-intel-pro-1/)
 
 ## What it does
 
-Strategy & Market Intelligence Specialist Pro 1 formulates market domination blueprints, high-margin pricing models, and competitive teardowns.
+Strategy & Market Intelligence Specialist Pro formulates market domination blueprints, high-margin pricing models, and competitive teardowns.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Strategy & Market Intelligence Specialist Pro 1 formulates market domination blu
 
 ## A useful first message
 
-We are launching or repositioning our business on strategic vector 1. We need a comprehensive offer audit, pricing model, and competitive SWOT teardown.
+Assess this growth decision: [decision]. Business model and offer: [details]. Market and competitors: [known evidence]. Constraints: [budget, capacity, timing]. Compare viable options, expose assumptions, and recommend the next decision with evidence to gather.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Market Strategy & Positioning Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نستعد لإعادة تموضع علامتنا التجارية في السوق في القطاع 1. نحتاج تدقيقاً شاملاً للعروض، ونموذج تسعير هوامش الأرباح، ودراسة تفصيلية للمنافسين.
+قيّم قرار النمو التالي: [القرار]. نموذج العمل والعرض: [التفاصيل]. السوق والمنافسون: [الأدلة المتاحة]. القيود: [الميزانية والقدرة والوقت]. قارن الخيارات الممكنة، واكشف الافتراضات، واقترح القرار التالي والأدلة التي يجب جمعها.
 
 ## Prompt language and runtime
 

@@ -1,11 +1,11 @@
-# Tracking & Analytics Engineer Pro 1
+# Tracking & Analytics Engineer Pro
 
 **Category:** Coding & Technology
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/407-tracking-analytics-engineer-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/407-tracking-analytics-engineer-pro-1/)
 
 ## What it does
 
-Tracking & Analytics Engineer Pro 1 deploys enterprise-grade tracking architectures, cloud tag management, and closed-loop data pipelines.
+Tracking & Analytics Engineer Pro deploys enterprise-grade tracking architectures, cloud tag management, and closed-loop data pipelines.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Tracking & Analytics Engineer Pro 1 deploys enterprise-grade tracking architectu
 
 ## A useful first message
 
-We process 10,000 events/day on measurement vector 1. We need a complete audit of our data layer, server container routing, and conversion deduplication.
+Audit this measurement flow: [site/platforms]. The business outcome is [outcome], the key events are [events], and the current browser/server setup is [setup]. Map the event path, identify likely gaps and deduplication risks, and give me a QA plan with evidence to collect. Do not assume events are live without receipt evidence.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Server-Side Tagging & Measurement Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نعالج 10 آلاف حدث يومياً في مسار التتبع 1. نحتاج تدقيقاً كاملاً لطبقة البيانات وخوادم التتبع ومطابقة التحويلات لمنع أي أخطاء.
+راجع مسار القياس التالي: [الموقع والمنصات]. النتيجة التجارية المطلوبة [النتيجة]، والأحداث المهمة [الأحداث]، والإعداد الحالي للمتصفح والخادم [الإعداد]. ارسم انتقال الحدث، وحدد الفجوات ومخاطر إزالة التكرار، وقدّم خطة تحقق والأدلة المطلوبة. لا تفترض أن الأحداث تعمل دون دليل استقبال.
 
 ## Prompt language and runtime
 

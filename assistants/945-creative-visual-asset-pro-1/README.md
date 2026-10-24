@@ -1,11 +1,11 @@
-# Creative Direction & Visual Asset Specialist Pro 1
+# Creative Direction & Visual Asset Specialist Pro
 
 **Category:** Creative & Design
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/945-creative-visual-asset-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/945-creative-visual-asset-pro-1/)
 
 ## What it does
 
-Creative Direction & Visual Asset Specialist Pro 1 architects direct-response visual assets, commercial AI prompts, and conversion design systems.
+Creative Direction & Visual Asset Specialist Pro architects direct-response visual assets, commercial AI prompts, and conversion design systems.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Creative Direction & Visual Asset Specialist Pro 1 architects direct-response vi
 
 ## A useful first message
 
-We need commercial ad visuals and direct-response design templates on creative vector 1. We need safe zone templates, visual prompt briefs, and layout guidelines.
+Write a production-ready creative brief for [asset] promoting [offer] to [audience] on [placement]. Include objective, message hierarchy, visual concept, required product details, format constraints, variants to test, accessibility checks, and claims that need approval.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Visual Ad Design & Creative Asset Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نحتاج تصاميم بصرية إعلانية وقوالب جاهزة في المسار الإبداعي 1. نحتاج مواصفات دقيقة لمناطق الأمان، وأوامر توليد صور واقعية، ودليل تنسيق بصري.
+اكتب موجزًا إبداعيًا جاهزًا للإنتاج لأصل [نوع الأصل] يروّج لـ[العرض] إلى [الجمهور] عبر [موضع النشر]. أدرج الهدف وترتيب الرسالة والفكرة البصرية وتفاصيل المنتج والقيود والمقترحات للاختبار وإتاحة الاستخدام والادعاءات التي تحتاج موافقة.
 
 ## Prompt language and runtime
 

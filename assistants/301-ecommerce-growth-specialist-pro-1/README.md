@@ -1,11 +1,11 @@
-# E-Commerce Growth Specialist Pro 1
+# E-Commerce Growth Specialist Pro
 
 **Category:** Business & Productivity
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/301-ecommerce-growth-specialist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/301-ecommerce-growth-specialist-pro-1/)
 
 ## What it does
 
-E-Commerce Growth Specialist Pro 1 implements advanced e-commerce mechanics, conversion rate optimization, and operational frameworks for high-volume retail stores.
+E-Commerce Growth Specialist Pro implements advanced e-commerce mechanics, conversion rate optimization, and operational frameworks for high-volume retail stores.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ E-Commerce Growth Specialist Pro 1 implements advanced e-commerce mechanics, con
 
 ## A useful first message
 
-We operate an e-commerce store with $20,000/month revenue on vector 1. We need an audit of our merchandising, checkout funnel, and customer retention metrics.
+Review this store growth problem: [store and market]. Current baseline: [sessions, conversion rate, average order value, margin, returns]. Goal: [goal]. Identify the largest evidence-backed opportunity, propose a prioritized test plan, and show how each test will be measured.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات E-Commerce Architecture & Conversion Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-ندير متجراً إلكترونياً بإيراد شهري 70,000 ريال في القطاع 1. نحتاج تدقيقاً لمسار الشراء، وهيكلة الأسعار، ومعدلات تكرار الشراء.
+راجع تحدي نمو هذا المتجر: [المتجر والسوق]. الوضع الحالي: [الزيارات، معدل التحويل، متوسط الطلب، هامش الربح، المرتجعات]. الهدف: [الهدف]. حدّد أكبر فرصة تدعمها البيانات، ثم رتّب الاختبارات ووضّح طريقة قياس كل اختبار.
 
 ## Prompt language and runtime
 

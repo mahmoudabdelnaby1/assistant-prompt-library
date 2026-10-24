@@ -1,11 +1,11 @@
-# Lead Generation & B2B Specialist Pro 1
+# Lead Generation & B2B Specialist Pro
 
 **Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/547-leadgen-b2b-specialist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/547-leadgen-b2b-specialist-pro-1/)
 
 ## What it does
 
-Lead Generation & B2B Specialist Pro 1 architects enterprise acquisition funnels, outbound pipeline systems, and sales enablement frameworks.
+Lead Generation & B2B Specialist Pro architects enterprise acquisition funnels, outbound pipeline systems, and sales enablement frameworks.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Lead Generation & B2B Specialist Pro 1 architects enterprise acquisition funnels
 
 ## A useful first message
 
-We target enterprise corporate buyers on acquisition vector 1. We need a complete lead qualification rubric, outbound messaging cadence, and sales deck structure.
+Design a qualified lead-generation plan for [offer] targeting [buyer and market]. Sales capacity is [capacity], the current funnel is [funnel], and a qualified lead means [definition]. Recommend channel roles, qualification questions, follow-up, CRM stages, and a measurement plan. Flag assumptions.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Lead Generation & Acquisition Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-نستهدف مديري الشركات الكبرى في قطاع الأعمال 1. نحتاج معايير دقيقة لتأهيل العملاء، ونصوص تواصل فعالة، وهيكلة عرض بيعي متكامل.
+صمّم خطة لتوليد عملاء محتملين مؤهلين لعرض [العرض] يستهدف [المشتري والسوق]. قدرة فريق المبيعات [القدرة]، والمسار الحالي [المسار]، وتعريف العميل المؤهل [التعريف]. اقترح دور القنوات وأسئلة التأهيل والمتابعة ومراحل CRM وخطة القياس، ووضّح الافتراضات.
 
 ## Prompt language and runtime
 

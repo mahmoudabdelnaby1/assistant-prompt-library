@@ -1,11 +1,11 @@
-# Lifecycle & CRM Automation Specialist Pro 1
+# Lifecycle & CRM Automation Specialist Pro
 
 **Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/736-lifecycle-crm-specialist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/736-lifecycle-crm-specialist-pro-1/)
 
 ## What it does
 
-Lifecycle & CRM Automation Specialist Pro 1 designs automated customer communication journeys, messaging APIs, and retention workflows.
+Lifecycle & CRM Automation Specialist Pro designs automated customer communication journeys, messaging APIs, and retention workflows.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Lifecycle & CRM Automation Specialist Pro 1 designs automated customer communica
 
 ## A useful first message
 
-We have an active customer database on lifecycle vector 1. We need an automated onboarding sequence, win-back flows, and CRM pipeline triggers.
+Map a customer lifecycle journey for [business and audience]. The entry event is [event], customer consent is handled by [method], and the desired outcome is [outcome]. Recommend segments, message sequence, timing, suppression rules, handoffs, and metrics. Flag consent and deliverability checks.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Lifecycle Messaging & Retention Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-لدينا قاعدة بيانات عملاء نشطة في مسار دورة الحياة 1. نحتاج رحلة ترحيب مؤتمتة، ورسائل إعادة تنشيط، وقواعد متابعة مبيعات ذكية.
+ارسم رحلة دورة حياة العميل لنشاط [النشاط والجمهور]. حدث البداية [الحدث]، وطريقة إدارة الموافقة [الطريقة]، والنتيجة المطلوبة [النتيجة]. اقترح الشرائح وتسلسل الرسائل وتوقيتها وقواعد الاستبعاد والتحويل بين الفرق ومؤشرات القياس. نبّه إلى مراجعة الموافقة وقابلية التسليم.
 
 ## Prompt language and runtime
 

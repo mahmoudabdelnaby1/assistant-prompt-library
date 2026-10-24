@@ -1,11 +1,11 @@
-# Paid Media Specialist Pro 1
+# Paid Media Specialist Pro
 
 **Category:** Marketing & SEO
 **Assistant page:** [English](https://mahmoudabdelnaby1.github.io/assistants/241-paid-media-specialist-pro-1/) · [العربية](https://mahmoudabdelnaby1.github.io/ar/assistants/241-paid-media-specialist-pro-1/)
 
 ## What it does
 
-Paid Media Specialist Pro 1 manages advanced performance media buying, algorithmic bidding, and full-funnel customer acquisition for specialized commercial sectors.
+Paid Media Specialist Pro manages advanced performance media buying, algorithmic bidding, and full-funnel customer acquisition for specialized commercial sectors.
 
 ## متى يفيدك؟
 
@@ -24,15 +24,15 @@ Paid Media Specialist Pro 1 manages advanced performance media buying, algorithm
 
 ## A useful first message
 
-We spend $15,000/month on specialized digital acquisition vector 1. We need a complete audit, custom audience segmentation, and budget pacing plan.
+Plan a paid acquisition test for [offer] in [market]. The objective is [qualified leads or purchases], the budget is [amount], and the conversion event is [event]. Propose channel and campaign structure, audience hypotheses, creative tests, measurement checks, and guardrails. State what you still need from me.
 
 ## طريقة البدء
 
-شاركني بيانات وإعدادات Advanced Paid Media & Vertical Strategy Vector 1 الحالية، والأهداف المطلوبة، والأرقام السابقة لتزويدك بخطة تنفيذية دقيقة ومباشرة.
+ابدأ بمحادثة جديدة وأرسل البرومبت كاملًا، ثم اشرح هدفك وسياقك وجمهورك والقيود. استخدم المثال بعد استبدال الأقواس بمعلوماتك، وراجع الحقائق والأرقام قبل الاعتماد على النتيجة.
 
 **مثال لرسالتك الأولى:**
 
-ننفق 50,000 ريال شهرياً على الحملات الإعلانية في القطاع 1. نحتاج تدقيقاً كاملاً، وتقسيم الجماهير، وخطة تحسين معدل الصرف والعائد.
+خطط لاختبار استحواذ مدفوع لعرض [اسم العرض] في سوق [السوق]. الهدف [عملاء مؤهلون أو مشتريات]، والميزانية [المبلغ]، وحدث التحويل [الحدث]. اقترح هيكل الحملات والقنوات وفرضيات الجمهور واختبارات الإبداع والقياس والضوابط، وحدد المعلومات الناقصة.
 
 ## Prompt language and runtime
 
