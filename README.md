@@ -2,7 +2,7 @@
 
 A growing, searchable collection of reusable AI assistant prompts across marketing, business, research, writing, creative work, education, and technology. Each entry explains the task it supports, how to start, what to expect, and what to review.
 
-**323 active entries, generated from the catalog** · [Browse the visual library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Portfolio](https://mahmoudabdelnaby1.github.io/) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
+**323 active entries, generated from the catalog** · **677 archived duplicates** ([archive](./archive/retired-assistants/)) · [Browse the visual library](https://mahmoudabdelnaby1.github.io/#assistant-library) · [Portfolio](https://mahmoudabdelnaby1.github.io/) · [LinkedIn](https://eg.linkedin.com/in/mahmoudabdelnaby4)
 
 > These are prompt files, not hosted or executable bots. They run inside a separate chat model when you provide the prompt and task. The prompts are in their original language; supporting instructions and examples are bilingual.
 
